@@ -118,7 +118,7 @@ var DISTANCE_1_PIN = "A3";
 
 //TOUCH (button)
 var TOUCH_0;
-var TOUCH_0_PIN = "D6";
+var TOUCH_0_PIN = 6;
 
 //LIGHT
 var LIGHT_0;
