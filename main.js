@@ -16,8 +16,8 @@
 
 //THIRD PARTY LIBRARIES
 //var firmata = require("firmata");
-var five = require("johnny-five");
-var Edison = require("edison-io");
+var five = require("/usr/lib/node_modules/johnny-five");
+var Edison = require("/usr/lib/node_modules/edison-io");
 var net = require('net');
 //var SerialPort = require("serialport").SerialPort;  
 
